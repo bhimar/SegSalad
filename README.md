@@ -1,7 +1,7 @@
 # SegSalad - A Hands On Review of Semantic Segmentation Techniques for Weed/Crop Datasets
 Source code is in [this Jupyter Notebook](SegSalad.ipynb) which is also avaiable on Google Colab [here](https://colab.research.google.com/drive/1Xmzz54j1JgksESurdbqAeGQFGnHiCQU9?usp=sharing).
 ## Abstract
-In this project, I explore a few common semantic segmentation techniques that have been used on weed/crop datasets for precision agriculture tasks. I use image patching as a data augmentation technique, train with transfer learning for three different semantic segmentation neural network architecures, and compare these models qualitatively and with the Intersection Over Union metric. I discuss the challenges and takeaways of the project. For a video summary of this project, please click [here]().
+In this project, I explore a few common semantic segmentation techniques that have been used on weed/crop datasets for precision agriculture tasks. I use image patching as a data augmentation technique, train with transfer learning for three different semantic segmentation neural network architecures, and compare these models qualitatively and with the Intersection Over Union metric. I discuss the challenges and takeaways of the project. For a video summary of this project, please click [here](https://youtu.be/FyGz-Pb-K2k).
 
 
 ## Problem and Motivation
